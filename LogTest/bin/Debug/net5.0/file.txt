@@ -1,0 +1,2 @@
+2022-09-09 18:43:53.7849|DEBUG|<Program>$|log de debug
+2022-09-09 18:43:53.8577|INFO|<Program>$|log de info
